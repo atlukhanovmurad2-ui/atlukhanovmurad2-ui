@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Murad 
 
-<!--
-**atlukhanovmurad2-ui/atlukhanovmurad2-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third Year Computer Science Student at UFAZ
 
-Here are some ideas to get you started:
+💻 Interested in Software Engineering and Machine Learning/Artificial Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- Machine Learning
+- Deep Learning
+- Data Structures & Algorithms
+
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=atlukhanovmurad2-ui&show_icons=true&theme=tokyonight)
